@@ -11,5 +11,4 @@
         Panel1.Left = (Me.Width - Panel1.Width) / 2
     End Sub
 
-
 End Class
